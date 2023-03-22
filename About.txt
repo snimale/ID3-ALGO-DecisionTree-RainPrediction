@@ -1,0 +1,18 @@
+in this project i made use of ID3 Decision Tree algorithm to create a decision tree from the weather data of first 10 days (1-10th of) Feb, 2023 and used the so formed decision tree to predict the Rainfall status of the next 18 days (11-28th of Feb). (The decision tree is static, since i used this project for algorithm learning purpose, but can be implemented in dynamic way so it can keep improving the decision tree on its own)
+
+location of Weather data -> Pune, Maharastra
+(rainfall my varry from place to place but, in this project rainfall is considered only in the place where the parameters data was sensed)
+
+The parameters and their ranges used in decision tree includes ->
+Wind speed - low (<=5km/hr) / high (>5km/hr)
+Pressure - low (<=1010 bar) /moderate (>1010 && <1017 bar) /high (>=1017 bar)
+Temperature - low (<=18C) / moderate (>18C && <=30C) / high (>30C)
+Humidity - veryLow (<30%) / low (>=30% && <60%) / moderate (>=60% && <80%) / high (>=80%)
+
+results ->
+
+82.20% -> Correct Prediction
+17.80% -> Incorrect Prediction
+
+91.47% -> Predictable Input
+8.53 -> Unpredictable Input

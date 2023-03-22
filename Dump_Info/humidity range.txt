@@ -1,0 +1,7 @@
+Very low humidity: typically ranges from 10% to 30% relative humidity. This range is associated with dry weather conditions and it is unlikely to rain.
+
+Low humidity: typically ranges from 30% to 60% relative humidity. This range is associated with warm and dry weather conditions, and while rain is possible, the probability is relatively low.
+
+Moderate humidity: typically ranges from 60% to 80% relative humidity. This range is associated with comfortable weather conditions and there is a moderate probability of rain.
+
+High humidity: typically ranges from 80% to 100% relative humidity. This range is associated with moist weather conditions and there is a high probability of rain.
